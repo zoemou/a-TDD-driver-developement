@@ -20,7 +20,7 @@ class NewVisitorTest(unittest.TestCase):
         self.fail('Finish the test!')
 
 if __name__ == "__main__":
-    unittest.main(warning = "ignore")
+    unittest.main(warnings = 'ignore')
 #应用邀请他输入一个待办事项
 #他输入buy peacock feathers
 #伊思的爱好是使用假蝇做饵钓鱼
